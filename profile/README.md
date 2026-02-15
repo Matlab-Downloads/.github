@@ -1,7 +1,7 @@
 # MATLAB – Platform for Mathematical Computations
 
 <p align="center">
-  <img src="https://1000logos.net/wp-content/uploads/2021/04/MATLAB-logo.png" alt="MATLAB Logo"/>
+  <img src="https://kb.nikhef.nl/ct/files/MATLAB-logo_%28Phone%29.png" alt="MATLAB Logo"/>
 </p>
 
 <p align="center">
